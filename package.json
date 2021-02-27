@@ -62,5 +62,6 @@
     "eslint-plugin-import": "^2.14.0",
     "express": "^4.16.3",
     "jest": "^23.5.0"
-  }
+  },
+  "dependencies": {}
 }
